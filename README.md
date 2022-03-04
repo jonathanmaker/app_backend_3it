@@ -6,4 +6,4 @@
 # metodos a consumir findAll, findById , save
 # tablas generadas automaticamente create-drop
 # data precargada que se inserta de manera automatica
-# descarcar y reconstruir paquetes con maven-clean , maven-install , maven-update
+# descargar y reconstruir paquetes con maven-clean , maven-install , maven-update
